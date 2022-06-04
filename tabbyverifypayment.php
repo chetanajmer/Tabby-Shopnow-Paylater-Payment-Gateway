@@ -28,7 +28,7 @@ if(isset($paymentid)) {
 
        "Accept: application/json",
 
-       "Authorization: Bearer sk_89b740f5-2c03-4dee-8bb7-592b603724fa",
+       "Authorization: Bearer ------------------",
 
     );
 
@@ -1118,7 +1118,7 @@ $headers = array(
 
    "Content-Type: application/json",
 
-   "Authorization: Bearer sk_test_ff80421f-621e-41d4-877a-94f3ceeb8e44",
+   "Authorization: Bearer sdsdsdsdsdsds",
 
    
 
