@@ -164,7 +164,7 @@ $headers = array(
 
    "Content-Type: application/json",
 
-   "Authorization: Bearer pk_ff6e5a66-436c-4b6d-8f30-8af9c92db245",
+   "Authorization: Bearer -----------------------",
 
 );
 
