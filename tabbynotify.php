@@ -88,7 +88,7 @@ if($paymentstatus=="authorized")
 
                "Content-Type: application/json",
 
-               "Authorization: Bearer sk_89b740f5-2c03-4dee-8bb7-592b603724fa",
+               "Authorization: Bearer -----------------------",
 
                
 
